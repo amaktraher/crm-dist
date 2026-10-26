@@ -1,0 +1,8 @@
+{
+  "version": "1.2.4",
+  "setup_url": "https://github.com/amaktraher/crm-dist/releases/download/v1.2.4/CRM_Setup_1.2.4_user.exe",
+  "setup_size": 19632190,
+  "sha256": "C22E9D13F00D7565BD8A81C40E68B7D2374C78C8A3013565AF85B20734F9F1C9",
+  "notes": "Пароли обновлены. Иконка CRM на ярлыке.",
+  "released": "2026-10-26"
+}
