@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "setup_url": "https://github.com/amaktraher/crm-dist/releases/download/v1.5.1/CRM_Setup_1.5.1_user.exe",
-  "setup_size": 19746338,
-  "sha256": "A62552ABC1BD81E66D052DC9A598217C742C28DC04ABBD29A0CF2B67C31DC7E0",
+  "version": "1.5.2",
+  "setup_url": "https://github.com/amaktraher/crm-dist/releases/download/v1.5.2/CRM_Setup_1.5.2_user.exe",
+  "setup_size": 19745018,
+  "sha256": "860545D643AB6FC0DC124614D643922AD84F398314FABA47553BBED9E81E1859",
   "notes": "Автообновление через GitHub. Пароли: админ 316497825, магазины 12345.",
   "released": "2026-10-26"
 }
